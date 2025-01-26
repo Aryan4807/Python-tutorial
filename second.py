@@ -1,4 +1,11 @@
-print ("Twinkle twinkle little star")
-print ("how i wonder what you are")
-print ("up and above world so high ")
-print ("like a diamond in the sky")
+# importing the pyttsx library 
+import pyttsx3 
+
+# initialisation 
+engine = pyttsx3.init() 
+
+# testing 
+engine.say("hare krishna hare krishna krishna krishna hare hare hare ram hare ram ram ram hare hare ") 
+engine.runAndWait() 
+engine.say(" ok ") 
+engine.runAndWait() 
