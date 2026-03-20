@@ -1,2 +1,2 @@
 # Python-tutorial
-tutorial for python NLP 
+365 Tutorial of NLP and Lang chain
