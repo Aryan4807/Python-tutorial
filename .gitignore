@@ -1,3 +1,4 @@
 .env
 gcp.py
 gcp.js
+config.py
